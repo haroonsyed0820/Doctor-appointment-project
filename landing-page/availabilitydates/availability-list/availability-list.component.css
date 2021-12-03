@@ -1,0 +1,9 @@
+body{
+    background-color: gold;
+    background-attachment: fixed;
+}
+.container{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration-color: honeydew;
+}

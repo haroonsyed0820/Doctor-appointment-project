@@ -1,0 +1,12 @@
+body{
+    background-attachment: fixed;
+    background-color: darkseagreen;
+}
+h3{
+    text-decoration: darkturquoise;
+    text-decoration-style: solid;
+}
+.form-group{
+    text-align: left;
+    text-decoration-color: gainsboro;
+}
